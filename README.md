@@ -145,3 +145,17 @@ Capítulo 12
 ![image](https://user-images.githubusercontent.com/105722861/179162593-589c4a29-4282-4500-8fa5-c8b043988576.png)
 
 ![image](https://user-images.githubusercontent.com/105722861/179162693-82055eb6-45a2-4d26-9b92-a93d7fcfe145.png)
+
+4.- VIDEO
+
+5.- CONCLUSIONES
+
+* Diferenciamos los procesos de carga y descarga de un condensador por medio de dos diferentes resistencias, observando que se produce la misma tendencia.
+
+* Observamos que los procesos de carga y descarga varían segun el tiempo.
+
+* Los valores mínimos de corriente, dependen en gran medida de la frecuenciade cambio carga-descarga.
+
+6.- BIBLIOGRAFÍA
+
+THOMAS, F. (2007). Principios de circuitos eléctricos.Octava edición. En T. Floyd, Principios de circuitos eléctricos.Octava edición (págs. 408-524). México: Pearson Educación de México, S.A. de C.V.
