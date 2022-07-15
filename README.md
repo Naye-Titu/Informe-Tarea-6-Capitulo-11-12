@@ -66,11 +66,7 @@ Capítulo 12
 
 ![image](https://user-images.githubusercontent.com/105722861/179157118-d8e49a80-c061-4101-8e07-73e537c7707b.png)
 
-
-
-
-
-
+![image](https://user-images.githubusercontent.com/105722861/179166607-21c063d9-80c3-401f-99b5-74903889a01a.png)
 
 3.- EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
